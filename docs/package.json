@@ -38,7 +38,7 @@
     "@opentelemetry/semantic-conventions": "catalog:",
     "@sentry/node": "^9.41.0",
     "@shikijs/vitepress-twoslash": "^3.20.0",
-    "@sveltejs/kit": "^2.22.0",
+    "@sveltejs/kit": "^3.0.0",
     "@types/bun": "catalog:",
     "@types/bunyan": "^1.8.11",
     "@types/deno": "^2.3.0",
